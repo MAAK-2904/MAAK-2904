@@ -5,8 +5,6 @@
 
 ### <div align="center">I'm Mahdi, a full-stack developer 👨‍💻 Co-Founder of TeachNow since 2017🚀</div>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maak-2904&label=Profile%20views&color=0e75b6&style=flat" alt="maak-2904" /> </p>
-
 - 🔭 I’m currently working on [TeachNow](https://teachnow.ir)
 
 - 👨‍💻 All of my projects are available at [https://themaak.net](https://themaak.net)
