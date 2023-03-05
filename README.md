@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Laravel , VueJS , InertiaJS , Ruby on Rails and related technologies**
 
-- 📫 How to reach me **admin@themaak.net**
+- 📫 How to reach me **dev@themaak.net**
 
-- 📄 Know about my experiences [https://maak-code.ir](https://maak-code.ir)
+- 📄 Know about my experiences [https://themaak.net](https://themaak.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
