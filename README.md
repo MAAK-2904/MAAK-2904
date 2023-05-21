@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/maak2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maak2904" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/maak2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maak2904" height="30" width="40" /></a>
-<a href="https://instagram.com/maak._.prg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maak._.prg" height="30" width="40" /></a>
+<a href="https://instagram.com/themaak.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maak._.prg" height="30" width="40" /></a>
 <a href="https://discord.gg/maak2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="maak2904" height="30" width="40" /></a>
 </p>
 
